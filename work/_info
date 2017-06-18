@@ -1,0 +1,420 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Modeltech_pe_edu_10.4a/examples/vhdl_workspace/first
+Efirst
+Z1 w1486846112
+Z2 DPx4 work 10 frontpanel 0 22 Wk4XOFnSOS08mC;T>eg=`1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z5 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+Z6 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z9 8First.vhd
+Z10 FFirst.vhd
+l0
+L20
+V]4c6QnSbzF_Y26?]E5W9T0
+!s100 >HLl11?;>R@Xz78FgS3CX1
+Z11 OP;C;10.4a;61
+32
+Z12 !s110 1497802019
+!i10b 1
+Z13 !s108 1497802019.000000
+Z14 !s90 -reportprogress|300|First.vhd|
+Z15 !s107 First.vhd|
+!i113 1
+o-O0
+Z16 tExplicit 1
+Aarch
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 5 first 0 22 ]4c6QnSbzF_Y26?]E5W9T0
+l45
+L31
+V16mV@<nM7F2fNKngERNVS1
+!s100 U6^?fFokB6Z6gf>Io6=f;2
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+o-O0
+R16
+Efirst_test
+Z17 w1486846722
+Z18 DPx4 work 10 parameters 0 22 h;zo`]3Qz`WQDA;2:`<n=1
+Z19 DPx4 work 8 mappings 0 22 0TTHZL122>^jbhD>HWzHR0
+Z20 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R3
+R6
+R7
+R8
+R0
+Z21 8First_tf.vhd
+Z22 FFirst_tf.vhd
+l0
+L28
+V_QgJMCDL98@Lhg:05hUC>3
+!s100 =V7>656QE>;8QA^d^JiiV0
+R11
+32
+R12
+!i10b 1
+R13
+Z23 !s90 -reportprogress|300|First_tf.vhd|
+Z24 !s107 First_tf.vhd|
+!i113 1
+o-O0
+R16
+Asim
+R18
+R19
+R20
+R3
+R6
+R7
+R8
+DEx4 work 10 first_test 0 22 _QgJMCDL98@Lhg:05hUC>3
+l55
+L31
+VBRCAo9MTl6?M@nikla;`B1
+!s100 ^SH=Rd3c?J;MNKJ>^:7GU0
+R11
+32
+R12
+!i10b 1
+R13
+R23
+R24
+!i113 1
+o-O0
+R16
+Pfrontpanel
+R7
+R8
+Z25 w1295978652
+R0
+Z26 8./oksim/okLibrary_sim.vhd
+Z27 F./oksim/okLibrary_sim.vhd
+l0
+L37
+VWk4XOFnSOS08mC;T>eg=`1
+!s100 5BJO<=[azN3cHn1_P>cib1
+R11
+32
+R12
+!i10b 1
+R13
+Z28 !s90 -reportprogress|300|./oksim/okLibrary_sim.vhd|
+Z29 !s107 ./oksim/okLibrary_sim.vhd|
+!i113 1
+o-O0
+R16
+Pmappings
+R7
+R8
+R25
+R0
+Z30 8./oksim/mappings.vhd
+Z31 F./oksim/mappings.vhd
+l0
+L14
+V0TTHZL122>^jbhD>HWzHR0
+!s100 P^`H`b6QAjZ=hVCg<KWB]3
+R11
+32
+Z32 !s110 1497802018
+!i10b 1
+Z33 !s108 1497802018.000000
+Z34 !s90 -reportprogress|300|./oksim/mappings.vhd|
+Z35 !s107 ./oksim/mappings.vhd|
+!i113 1
+o-O0
+R16
+Bbody
+R19
+R7
+R8
+l0
+L34
+V3_f]PZ>`G_612FgE5hHbR2
+!s100 `Q=Z?D58a?L63?FTeCY0c3
+R11
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+o-O0
+R16
+Z36 nbody
+Eokhost
+Z37 w1348004970
+R19
+R18
+R3
+R6
+R7
+R8
+R0
+Z38 8./oksim/okHost.vhd
+Z39 F./oksim/okHost.vhd
+l0
+L20
+VJnWOmOG[bAzNUhIZ0iTBk1
+!s100 X8STc1FBl^L37<37<k]2i3
+R11
+32
+R12
+!i10b 1
+R13
+Z40 !s90 -reportprogress|300|./oksim/okHost.vhd|
+Z41 !s107 ./oksim/okHost.vhd|
+!i113 1
+o-O0
+R16
+Aarch
+R19
+R18
+R3
+R6
+R7
+R8
+DEx4 work 6 okhost 0 22 JnWOmOG[bAzNUhIZ0iTBk1
+l65
+L32
+VA9n4nc^3FMfK?4MD:i4me3
+!s100 =[:_3SJkaWa`0ij9MdQi13
+R11
+32
+R12
+!i10b 1
+R13
+R40
+R41
+!i113 1
+o-O0
+R16
+Eokhost_xem5010
+R25
+R7
+R8
+R0
+R26
+R27
+l0
+L10
+VFlgcG03FjP0JzI`^7GlTa2
+!s100 @A74IAnib`=eOASXKM@ib0
+R11
+32
+R12
+!i10b 1
+R13
+R28
+R29
+!i113 1
+o-O0
+R16
+Aarch_okhost_xem5010
+R7
+R8
+DEx4 work 14 okhost_xem5010 0 22 FlgcG03FjP0JzI`^7GlTa2
+l28
+L19
+VXmmAn^bNnLL_Pc0]>D5@m0
+!s100 nPIjVVKZd1JAEh1di`[YX3
+R11
+32
+R12
+!i10b 1
+R13
+R28
+R29
+!i113 1
+o-O0
+R16
+Eokwirein
+R25
+R19
+R18
+R7
+R8
+R0
+Z42 8./oksim/okWireIn.vhd
+Z43 F./oksim/okWireIn.vhd
+l0
+L15
+VXf?OFB?:7[Qf4EU<@aD252
+!s100 bLDO;TN<cEhJVcB3AoLN93
+R11
+32
+Z44 !s110 1497802020
+!i10b 1
+Z45 !s108 1497802020.000000
+Z46 !s90 -reportprogress|300|./oksim/okWireIn.vhd|
+Z47 !s107 ./oksim/okWireIn.vhd|
+!i113 1
+o-O0
+R16
+Aarch
+R19
+R18
+R7
+R8
+DEx4 work 8 okwirein 0 22 Xf?OFB?:7[Qf4EU<@aD252
+l33
+L24
+VfizCR?[d`d<hSTl@he^:K2
+!s100 0H@0:<3HnScCYCTNan_8l3
+R11
+32
+R44
+!i10b 1
+R45
+R46
+R47
+!i113 1
+o-O0
+R16
+Eokwireor
+R25
+R7
+R8
+R0
+Z48 8./oksim/okWireOR.vhd
+Z49 F./oksim/okWireOR.vhd
+l0
+L13
+V;Nn8UgPl;CYh28<RWENEj0
+!s100 ^Fz^>oPcJTeW6A=X;nRO:0
+R11
+32
+R44
+!i10b 1
+R45
+Z50 !s90 -reportprogress|300|./oksim/okWireOR.vhd|
+Z51 !s107 ./oksim/okWireOR.vhd|
+!i113 1
+o-O0
+R16
+Aarchwireor
+R7
+R8
+Z52 DEx4 work 8 okwireor 0 22 ;Nn8UgPl;CYh28<RWENEj0
+l24
+L23
+Z53 VQZ5C^XXl;O9YYhFIW:5FH0
+Z54 !s100 SR7IjS89OTk>mjBXSAD0i3
+R11
+32
+R44
+!i10b 1
+R45
+R50
+R51
+!i113 1
+o-O0
+R16
+Eokwireout
+R25
+R19
+R18
+R7
+R8
+R0
+Z55 8./oksim/okWireOut.vhd
+Z56 F./oksim/okWireOut.vhd
+l0
+L15
+V5fWz@XX1D<80oMH3N9CWC1
+!s100 Nf?k6mCDbW]m^:Xm[U<`L3
+R11
+32
+R44
+!i10b 1
+R45
+Z57 !s90 -reportprogress|300|./oksim/okWireOut.vhd|
+Z58 !s107 ./oksim/okWireOut.vhd|
+!i113 1
+o-O0
+R16
+Aarch
+R19
+R18
+R7
+R8
+DEx4 work 9 okwireout 0 22 5fWz@XX1D<80oMH3N9CWC1
+l32
+L24
+VjFHJWI?3g?zR649CU?DF90
+!s100 RCcU1PT^9]?;z1hiC@hW:0
+R11
+32
+R44
+!i10b 1
+R45
+R57
+R58
+!i113 1
+o-O0
+R16
+Pparameters
+R7
+R8
+R25
+R0
+Z59 8./oksim/parameters.vhd
+Z60 F./oksim/parameters.vhd
+l0
+L15
+Vh;zo`]3Qz`WQDA;2:`<n=1
+!s100 0aL9zT4i3Cl=<SmKRPYET3
+R11
+32
+R12
+!i10b 1
+R33
+Z61 !s90 -reportprogress|300|./oksim/parameters.vhd|
+Z62 !s107 ./oksim/parameters.vhd|
+!i113 1
+o-O0
+R16
+Bbody
+R18
+R7
+R8
+l0
+L29
+VcSIDh?LQElkl_e]^dbZLR3
+!s100 ;MT<Q=_M]`gzSjJGMaJC@0
+R11
+32
+R12
+!i10b 1
+R33
+R61
+R62
+!i113 1
+o-O0
+R16
+R36
